@@ -1,4 +1,4 @@
-# EMD-HeartBeat-Classification
+# Classification of Heart Beats using EMD-Generated 2D Grayscale Images
 
 This repository contains the implementation of a novel approach for classifying heartbeats by converting one-dimensional (1-D) data into two-dimensional (2-D) grayscale images. The method utilizes empirical mode decomposition (EMD) to remove low-frequency intrinsic mode functions (IMFs) considered as noise from the signal. The resulting 2-D grayscale images are then processed and analyzed for accurate heartbeat classification.
 
